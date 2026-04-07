@@ -1,0 +1,446 @@
+[
+  {
+    "title": "01. Foldable Cover - 280x653",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (Linux; Android 15; SM-F956B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 280, "height": 653 },
+      "horizontal": { "width": 653, "height": 280 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": true,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Android",
+      "platformVersion": "15.0.0",
+      "architecture": "",
+      "model": "SM-F956B",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "02. Android Common - 360x800",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (Linux; Android 15; Pixel 9) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 360, "height": 800 },
+      "horizontal": { "width": 800, "height": 360 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Android",
+      "platformVersion": "15.0.0",
+      "architecture": "",
+      "model": "Pixel 9",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "03. Android Tall - 384x832",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (Linux; Android 15; SM-S928B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Mobile Safari/537.36",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 384, "height": 832 },
+      "horizontal": { "width": 832, "height": 384 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Android",
+      "platformVersion": "15.0.0",
+      "architecture": "",
+      "model": "SM-S928B",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "04. iPhone Base - 390x844",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 390, "height": 844 },
+      "horizontal": { "width": 844, "height": 390 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "iOS",
+      "platformVersion": "26.0",
+      "architecture": "",
+      "model": "iPhone",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "05. iPhone Pro - 393x873",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 393, "height": 873 },
+      "horizontal": { "width": 873, "height": 393 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "iOS",
+      "platformVersion": "26.0",
+      "architecture": "",
+      "model": "iPhone",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "06. Phone Large - 414x896",
+    "type": "phone",
+    "user-agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 3,
+      "vertical": { "width": 414, "height": 896 },
+      "horizontal": { "width": 896, "height": 414 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "iOS",
+      "platformVersion": "26.0",
+      "architecture": "",
+      "model": "iPhone",
+      "mobile": true,
+      "formFactors": ["Mobile"]
+    }
+  },
+  {
+    "title": "07. iPad Legacy - 768x1024",
+    "type": "tablet",
+    "user-agent": "Mozilla/5.0 (iPad; CPU OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 2,
+      "vertical": { "width": 768, "height": 1024 },
+      "horizontal": { "width": 1024, "height": 768 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "iPadOS",
+      "platformVersion": "26.0",
+      "architecture": "",
+      "model": "iPad",
+      "mobile": true,
+      "formFactors": ["Tablet"]
+    }
+  },
+  {
+    "title": "08. iPad Modern - 820x1180",
+    "type": "tablet",
+    "user-agent": "Mozilla/5.0 (iPad; CPU OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 2,
+      "vertical": { "width": 820, "height": 1180 },
+      "horizontal": { "width": 1180, "height": 820 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "iPadOS",
+      "platformVersion": "26.0",
+      "architecture": "",
+      "model": "iPad",
+      "mobile": true,
+      "formFactors": ["Tablet"]
+    }
+  },
+  {
+    "title": "09. Android Tablet - 800x1280",
+    "type": "tablet",
+    "user-agent": "Mozilla/5.0 (Linux; Android 15; SM-X910) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": ["mobile", "touch"],
+    "screen": {
+      "device-pixel-ratio": 2,
+      "vertical": { "width": 800, "height": 1280 },
+      "horizontal": { "width": 1280, "height": 800 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } },
+      { "title": "default", "orientation": "horizontal", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Android",
+      "platformVersion": "15.0.0",
+      "architecture": "",
+      "model": "SM-X910",
+      "mobile": false,
+      "formFactors": ["Tablet"]
+    }
+  },
+  {
+    "title": "10. Laptop Small - 1366x768",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 1,
+      "vertical": { "width": 1366, "height": 768 },
+      "horizontal": { "width": 768, "height": 1366 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Windows",
+      "platformVersion": "15.0.0",
+      "architecture": "x86",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  },
+  {
+    "title": "11. Windows 125% scale - 1536x864",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 1.25,
+      "vertical": { "width": 1536, "height": 864 },
+      "horizontal": { "width": 864, "height": 1536 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Windows",
+      "platformVersion": "15.0.0",
+      "architecture": "x86",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  },
+  {
+    "title": "12. MacBook Retina - 1440x900",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Safari/605.1.15",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 2,
+      "vertical": { "width": 1440, "height": 900 },
+      "horizontal": { "width": 900, "height": 1440 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [],
+      "fullVersionList": [],
+      "fullVersion": "",
+      "platform": "macOS",
+      "platformVersion": "26.0",
+      "architecture": "arm",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  },
+  {
+    "title": "13. Desktop FHD - 1920x1080",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 1,
+      "vertical": { "width": 1920, "height": 1080 },
+      "horizontal": { "width": 1080, "height": 1920 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Windows",
+      "platformVersion": "15.0.0",
+      "architecture": "x86",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  },
+  {
+    "title": "14. Desktop QHD - 2560x1440",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 1,
+      "vertical": { "width": 2560, "height": 1440 },
+      "horizontal": { "width": 1440, "height": 2560 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Windows",
+      "platformVersion": "15.0.0",
+      "architecture": "x86",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  },
+  {
+    "title": "15. Ultrawide 21:9 - 3440x1440",
+    "type": "notebook",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36",
+    "capabilities": [],
+    "screen": {
+      "device-pixel-ratio": 1,
+      "vertical": { "width": 3440, "height": 1440 },
+      "horizontal": { "width": 1440, "height": 3440 }
+    },
+    "modes": [
+      { "title": "default", "orientation": "vertical", "insets": { "left": 0, "top": 0, "right": 0, "bottom": 0 } }
+    ],
+    "show-by-default": true,
+    "dual-screen": false,
+    "foldable-screen": false,
+    "show": "Always",
+    "user-agent-metadata": {
+      "brands": [{ "brand": "Chromium", "version": "147" }, { "brand": "Google Chrome", "version": "147" }, { "brand": "Not_A Brand", "version": "8" }],
+      "fullVersionList": [{ "brand": "Chromium", "version": "147.0.7727.49" }, { "brand": "Google Chrome", "version": "147.0.7727.49" }, { "brand": "Not_A Brand", "version": "8.0.0.0" }],
+      "fullVersion": "147.0.7727.49",
+      "platform": "Windows",
+      "platformVersion": "15.0.0",
+      "architecture": "x86",
+      "model": "",
+      "mobile": false,
+      "formFactors": ["Desktop"]
+    }
+  }
+]
