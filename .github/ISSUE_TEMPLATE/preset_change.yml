@@ -1,0 +1,33 @@
+name: Preset change proposal
+description: Add, remove, or modify a device in the curated 2026 preset
+labels: [preset]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of change
+      options:
+        - Add a device
+        - Remove a device
+        - Modify a device
+    validations:
+      required: true
+  - type: textarea
+    id: device
+    attributes:
+      label: Device
+      description: Title, viewport, DPR, capabilities
+      placeholder: |
+        Title: 16. Phone Foo
+        Viewport: 412×915
+        DPR: 3
+        Capabilities: mobile, touch
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale (with stat source)
+      description: Cite global usage data (StatCounter etc.) — opinionated additions need numbers, not vibes.
+    validations:
+      required: true

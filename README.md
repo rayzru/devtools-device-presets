@@ -2,6 +2,10 @@
 
 > A curated, opinionated **2026 device preset** for Chrome DevTools — modern viewports backed by global usage statistics, with clear rationale for every entry. Compatible with [Vibranium](https://github.com/Pittan/vibranium), plus a zero-dependency Python installer.
 
+[![CI](https://github.com/rayzru/devtools-device-presets/actions/workflows/ci.yml/badge.svg)](https://github.com/rayzru/devtools-device-presets/actions/workflows/ci.yml)
+[![PyPI version](https://img.shields.io/pypi/v/devtools-device-presets.svg)](https://pypi.org/project/devtools-device-presets/)
+[![Python versions](https://img.shields.io/pypi/pyversions/devtools-device-presets.svg)](https://pypi.org/project/devtools-device-presets/)
+[![PyPI downloads](https://img.shields.io/pypi/dm/devtools-device-presets.svg)](https://pypi.org/project/devtools-device-presets/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -67,19 +71,26 @@ This repo is the **third option**: a small, opinionated, **15-device** preset wh
 
 You have three options. Pick whichever fits.
 
-### Option A — Zero-deps Python installer (recommended)
+### Option A — Install from PyPI (recommended)
 
 Works on macOS, Linux, Windows. Requires only Python 3.9+ (already on macOS/Linux; one-time install on Windows).
 
 ```bash
-git clone https://github.com/rayzru/devtools-device-presets.git
-cd devtools-device-presets
+pip install devtools-device-presets
 
 # Quit Chrome FULLY first (Cmd+Q on macOS, File→Exit on Windows/Linux).
 
-python -m devtools_device_presets               # interactive: pick profiles
-python -m devtools_device_presets --all         # apply to every detected profile
-python -m devtools_device_presets --dry-run     # preview, no writes
+devtools-device-presets               # interactive: pick profiles
+devtools-device-presets --all         # apply to every detected profile
+devtools-device-presets --dry-run     # preview, no writes
+```
+
+Or run from a clone without installing:
+
+```bash
+git clone https://github.com/rayzru/devtools-device-presets.git
+cd devtools-device-presets
+python -m devtools_device_presets --all
 ```
 
 Restore the most recent backup at any time:
